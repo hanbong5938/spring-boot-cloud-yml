@@ -1,0 +1,12 @@
+---
+# local
+spring:
+  config:
+    activate:
+      on-profile: local
+---
+# test
+spring:
+  config:
+    activate:
+      on-profile: test
