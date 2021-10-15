@@ -16,3 +16,12 @@ spring:
 who:
   am:
     i: this-test
+---
+# add
+spring:
+  config:
+    activate:
+      on-profile: add
+who:
+  am:
+    i: this-add
