@@ -4,9 +4,15 @@ spring:
   config:
     activate:
       on-profile: local
+who:
+  am:
+    i: this-local
 ---
 # test
 spring:
   config:
     activate:
       on-profile: test
+who:
+  am:
+    i: this-test
