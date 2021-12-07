@@ -1,9 +1,7 @@
 server:
   port: 8080
-
 my:
-  value: "config "
-
+  value: "config erqwerqwe "
 management:
   endpoints:
     web:
