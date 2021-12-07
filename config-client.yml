@@ -2,7 +2,7 @@ server:
   port: 8080
 
 my:
-  value: "config"
+  value: "config configconfig config config"
 
 management:
   endpoints:
