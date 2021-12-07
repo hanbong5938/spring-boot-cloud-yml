@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+test:
+  value: "config client refreshed2"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "refresh"
